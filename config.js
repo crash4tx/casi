@@ -1,10 +1,10 @@
-global.you = ['6285828357727'] // Developer Bot
-global.rowner = ['6285828357727'] // Real Owner Bot
-global.owner = ['6285828357727'] // Owner Bot
-global.police = ['6285828357727'] // Police Bot
-global.mods = ['6285828357727']  // Want some help?
-global.prems = ['6285828357727'] // Premium user has unlimited limit
-global.helper = ['6285828357727']
+global.you = ['6281213466471'] // Developer Bot
+global.rowner = ['6281213466471'] // Real Owner Bot
+global.owner = ['6281213466471'] // Owner Bot
+global.police = ['6281213466471'] // Police Bot
+global.mods = ['6281213466471']  // Want some help?
+global.prems = ['6281213466471'] // Premium user has unlimited limit
+global.helper = ['6281213466471']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
